@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">NewGan</string>
+
+
+    <!--coordinatorLayout behavior-->
+    <string name="bottom_navigation_view_behavior" translatable="false">com.example.brusewu.newgan.ui.widget.BottomNavigationViewBehavior</string>
+
+    <!-- 顶部导航标题 -->
+    <string name="toolbar_title_about">关于</string>
+    <string name="toolbar_title_setting">设置</string>
+
+    <!-- 搜索框 -->
+    <string name="search_box_hint">搜索干货</string>
+
+    <!-- 搜索结果页 -->
+    <string name="no_content_found">没有找到相关的内容</string>
+
+    <!-- 底部导航 -->
+    <string name="ganhuo">干货</string>
+    <string name="xiandu">闲读</string>
+    <string name="pictures">图片</string>
+    <string name="more">更多</string>
+
+    <!-- 首页tab标题 -->
+    <string name="tab_title_all">全部</string>
+    <string name="tab_title_android">Android</string>
+    <string name="tab_title_ios">iOS</string>
+    <string name="tab_title_funny_video">休息视频</string>
+    <string name="tab_title_res">拓展资源</string>
+    <string name="tab_title_front_end">前端</string>
+    <string name="tab_title_random">瞎推荐</string>
+    <string name="tab_title_app">App</string>
+
+    <string name="fuli">福利</string>
+    <string name="recycler_footer_no_more">真的就这么多了</string>
+
+    <!-- WebView 导航栏菜单 -->
+    <string name="web_view_toolbar_share">分享</string>
+    <string name="web_view_toolbar_refresh">刷新</string>
+    <string name="web_view_toolbar_copy_link">复制链接</string>
+    <string name="web_view_toolbar_open_in_browser">浏览器中打开</string>
+    <string name="text_copied">已复制到剪贴板</string>
+
+    <!-- MoreFragment -->
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="feedback">问题反馈</string>
+    <string name="dark_mode">夜间模式</string>
+
+    <!-- 关于页 -->
+    <string name="card_primary_text">NewGan</string>
+    <string name="project_description">干货集中营非官方 Android app, 使用 MVP + Dagger2 + RxJava2 + Retrofit构建，详细介绍请查看项目主页（见下方）\n\n有任何问题或发现任何Bug可以到项目主页提交Issue</string>
+
+    <!-- 设置页 -->
+    <string name="pref_title_language">语言</string>
+    <string name="pref_summary_language">简体中文</string>
+    <string name="pref_title_clear_cache">清除缓存</string>
+    <string name="pref_summary_clear_cache">图片缓存</string>
+    <string name="pref_title_app_version">版本号</string>
+    <string name="pref_summary_app_version">1.0 (1)</string>
+    <string name="pref_title_open_source_license">开源协议</string>
+
+    <!-- Toast 消息 -->
+    <string name="toast_message_error_occurred">出错了！</string>
+
+    <!-- share intent -->
+    <string name="share_dialog_title_share">分享</string>
+    <string name="share_content"> - 来自干货集中营的干货</string>
+</resources>
